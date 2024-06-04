@@ -7,8 +7,11 @@ Proje Yapısı
 Proje aşağıdaki ana dosya ve klasörlerden oluşmaktadır:
 
 Models/: Uçuş, lokasyon ve rezervasyon bilgilerini içeren sınıfları içerir.
+
 UcakRezervasyonContext.cs: Veri tabanı işlemlerini yöneten sınıf.
+
 UcakRezervasyonContext.db: Veri tabanını temsil eden dosya.
+
 Form1.cs: Uygulamanın ana arayüzünü içeren dosya.
 
 Modeller
