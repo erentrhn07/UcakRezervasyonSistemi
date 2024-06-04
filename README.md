@@ -10,15 +10,19 @@ Models/: Uçuş, lokasyon ve rezervasyon bilgilerini içeren sınıfları içeri
 UcakRezervasyonContext.cs: Veri tabanı işlemlerini yöneten sınıf.
 UcakRezervasyonContext.db: Veri tabanını temsil eden dosya.
 Form1.cs: Uygulamanın ana arayüzünü içeren dosya.
+
 Modeller
 
 Ucak.cs
+
 Bu sınıf, uçak bilgilerini temsil eder. Uçağın ID'si, model adı, kapasitesi gibi bilgileri içerir.
 
 Lokasyon.cs
+
 Bu sınıf, lokasyon bilgilerini temsil eder. Kalkış ve varış yerlerinin isimlerini ve kodlarını içerir.
 
 Rezervasyon.cs
+
 Bu sınıf, rezervasyon bilgilerini temsil eder. Rezervasyonun ID'si, kullanıcı bilgileri, uçuş ID'si ve rezervasyon tarihi gibi bilgileri içerir.
 
 Veri Tabanı
